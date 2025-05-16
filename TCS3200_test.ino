@@ -1,4 +1,5 @@
 // TCS3200 SENSOR
+// COLOR SENSOR
 
 #define S0 0
 #define S1 1
